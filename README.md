@@ -18,12 +18,6 @@ This project is a microservices-based e-commerce platform designed for purchasin
 
 ## Tech Stack
 
-### Frontend:
-
-- React.js for the user interface
-- Axios for API requests
-- Flowbite for UI components
-
 ### Backend:
 
 - Spring Boot for building microservices
@@ -43,8 +37,9 @@ This project is a microservices-based e-commerce platform designed for purchasin
 
 
 ## Microservices 
+![Microserviceimage](https://github.com/user-attachments/assets/3e2d20f8-6adf-4147-9c2c-becb1eaf156f)
 
-![Screenshot from 2025-03-06 22-05-34](https://github.com/user-attachments/assets/19084fff-01ad-4954-ae46-065220964abf)
+
 
 
 ## Microservices Structure
@@ -71,7 +66,7 @@ The system follows a microservices architecture, with multiple services communic
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ecommerce-microservices.git
+    git clone https://github.com/ManishPatidar806/Gaming_Ecommerce_Microservice.git
     ```
 2. Navigate to the project directory and set up each microservice.
 3. Configure the database in `application.properties`.
